@@ -1,0 +1,16 @@
+# Architecture specific extensions/prefixes
+.DS_Store
+
+# Binary
+/kuro
+
+# App generated file
+log.txt
+output.txt
+
+# Output file extensions
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
